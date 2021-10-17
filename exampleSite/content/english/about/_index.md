@@ -1,14 +1,11 @@
 ---
-title: "About Us"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# about image
-image: "images/about/about-page.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
----
+title: Sobre nós
+bg_image: images/backgrounds/page-title.jpg
+image: images/about/about-page.jpg
+description: Nós somos uns gajos que gostamos de física e queremos partilhar o nosso
+  gosto por ela a mais pessoas.
 
+---
 ## ABOUT OUR JOURNY
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
