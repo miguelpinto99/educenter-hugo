@@ -67,7 +67,7 @@ about:
   button:
     enable: true
     label: Learn more
-    link: about
+    link: sobre
 course:
   enable: true
   title: Our Course
