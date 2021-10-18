@@ -50,7 +50,7 @@ url = "notice"
 [[Languages.en.menu.main]]
 name = "eventos"
 parent = "Pages"
-url = "eventos"
+url = "events"
 [[Languages.en.menu.main]]
 name = "scholarship"
 parent = "Pages"
