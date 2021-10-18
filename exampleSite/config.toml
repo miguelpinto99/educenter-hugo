@@ -65,7 +65,7 @@ url = "blog"
 weight = 4
 [[Languages.en.menu.main]]
 name = "Contactos"
-url = "contactos"
+url = "contacts"
 weight = 5
 [Languages.fr]
 contentDir = "content/french"
