@@ -28,8 +28,8 @@ url = "scholarship"
 name = "research"
 url = "research"
 [[Languages.en.menu.main]]
-name = "About"
-url = "about"
+name = "Sobre nós"
+url = "sobre"
 weight = 1
 [[Languages.en.menu.main]]
 name = "course"
