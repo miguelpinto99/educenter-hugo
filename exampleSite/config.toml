@@ -52,10 +52,6 @@ name = "eventos"
 parent = "Pages"
 url = "events"
 [[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship"
-[[Languages.en.menu.main]]
 name = "research"
 parent = "Pages"
 url = "research"
