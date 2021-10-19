@@ -47,7 +47,7 @@ url = "notice"
 [[Languages.en.menu.main]]
 name = "eventos"
 parent = "Pages"
-url = "events"
+url = "event"
 [[Languages.en.menu.main]]
 name = "research"
 parent = "Pages"
