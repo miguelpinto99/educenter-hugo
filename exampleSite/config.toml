@@ -22,9 +22,6 @@ url = "notice"
 name = "event"
 url = "event"
 [[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-[[Languages.en.menu.footer]]
 name = "research"
 url = "research"
 [[Languages.en.menu.main]]
